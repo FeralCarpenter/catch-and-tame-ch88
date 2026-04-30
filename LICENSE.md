@@ -1,4 +1,4 @@
-
+stealth Scripts for catch and tame offers the most advanced catch and tame Script, with auto-heal and auto-upgrade. Perfect for dominating any match.
 
 
 
